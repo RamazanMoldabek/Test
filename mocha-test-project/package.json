@@ -1,0 +1,13 @@
+{
+  "name": "mocha-chai-project",
+  "version": "1.0.0",
+  "description": "Node.js project with Mocha and Chai",
+  "main": "user.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^11.7.5"
+  }
+}
